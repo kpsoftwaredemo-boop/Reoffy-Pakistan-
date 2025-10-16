@@ -1,7 +1,8 @@
 {
   "name": "Reoffy Pakistan",
   "short_name": "ReoffyPK",
-  "start_url": "/index.html",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#10B981",
