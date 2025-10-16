@@ -9,12 +9,12 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "Picsart_25-10-16_23-18-54-028.jpg",
+      "src": "Reoffyicon192.jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "Picsart_25-10-16_23-18-54-028.jpg",
+      "src": "Reoffyicon512.jpg",
       "type": "image/png",
       "sizes": "512x512"
     }
