@@ -1,21 +1,27 @@
 {
   "name": "Reoffy Pakistan",
   "short_name": "ReoffyPK",
-  "start_url": ".",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#10B981",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "20251015_202018.jpg",
+      "src": "/icons/icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "20251015_202018.jpg",
+      "src": "/icons/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
     }
   ]
 }
