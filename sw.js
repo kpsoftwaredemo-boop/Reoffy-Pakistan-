@@ -1,10 +1,10 @@
-const CACHE_NAME = 'reoffy-pakistan-cache-v1';
+const CACHE_NAME = 'reoffy-pakistan-cache-v2'; // ورژن کو اپ ڈیٹ کیا تاکہ نیا سروس ورکر انسٹال ہو
 const URLS_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png',
+  './',
+  'index.html',
+  'manifest.json',
+  'icons/icon-192x192.png',
+  'icons/icon-512x512.png',
   'https://cdn.tailwindcss.com',
   'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css',
   'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap'
